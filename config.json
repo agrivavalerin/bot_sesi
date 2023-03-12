@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6283100189031@s.whatsapp.net","6283100189031@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ bot herbe ×፝֟͜×",
+    "instagram" : "https://instagram.com/agrivavalerin75",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "herbe",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "kucing.jpg",
+    "BotKey": "ZPiEqRLUIuctaoW",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": false,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 1000,
+    "gcount": {
+        "prem": 1000,
+        "user": 1000
+    }
+}
